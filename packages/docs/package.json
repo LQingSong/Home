@@ -1,0 +1,28 @@
+{
+  "name": "@qs/docs",
+  "version": "1.0.0",
+  "description": "home docs",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LQingSong/Home.git"
+  },
+  "keywords": [
+    "docs",
+    "full-stack"
+  ],
+  "author": "leiqs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LQingSong/Home/issues"
+  },
+  "homepage": "https://github.com/LQingSong/Home#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.74"
+  }
+}

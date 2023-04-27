@@ -1,0 +1,22 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "personal Github home page",
+  "packageManager": "pnpm@6.32.11",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LQingSong/Home.git"
+  },
+  "keywords": [],
+  "author": "leiqs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LQingSong/Home/issues"
+  },
+  "homepage": "https://github.com/LQingSong/Home#readme",
+  "workspaces": [
+    "packages\\docs"
+  ]
+}
