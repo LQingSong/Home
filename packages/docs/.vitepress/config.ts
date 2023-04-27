@@ -4,7 +4,6 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Secret Garden Of QingSong",
   description: "Code World",
-  base: "/secret/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "",
