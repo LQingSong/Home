@@ -17,7 +17,7 @@ jobs:
       - run: pnpm install --lockfile-only
 
       - name: Build
-        run: pnpm @qs/docs:build
+        run: pnpm -F @qs/docs docs:build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
