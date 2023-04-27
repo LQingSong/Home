@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/LQingSong/Home/issues"
   },
-  "homepage": "https://github.com/LQingSong/Home#readme",
-  "workspaces": [
-    "packages\\docs"
-  ]
+  "homepage": "https://github.com/LQingSong/Home#readme"
 }
